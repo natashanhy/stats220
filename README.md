@@ -7,7 +7,7 @@
 2. [Dillinger](https://dillinger.io/)
 3. [Google Fonts](https://fonts.google.com/)
 
-**Important Dates**
+**Important Dates:**
 * 13 March: Project 1 due ✔️
 * 27 March: Project 2 due 
 * 3 April: Online test
