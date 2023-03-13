@@ -6,6 +6,7 @@
 1. [Animated Gifs](https://tenor.com/)
 2. [Dillinger](https://dillinger.io/)
 3. [Google Fonts](https://fonts.google.com/)
+4. [regex101](https://regex101.com/)
 
 **Important Dates:**
 * 13 March: Project 1 due ✔️
