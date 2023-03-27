@@ -7,6 +7,7 @@
 2. [Dillinger](https://dillinger.io/)
 3. [Google Fonts](https://fonts.google.com/)
 4. [regex101](https://regex101.com/)
+5. [SQL Fiddle](http://sqlfiddle.com/#!5/5bd08/927)
 
 **Important Dates:**
 * 13 March: Project 1 due ✔️
