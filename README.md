@@ -10,6 +10,7 @@
 5. [SQL Fiddle](http://sqlfiddle.com/#!5/5bd08/927)
 6. [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1)
 7. [JSON Formatter](https://jsonformatter.curiousconcept.com/#)
+8. [ggplot2 Cheat Sheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 
 **Important Dates:**
 * 13 March: Project 1 due ✔️
