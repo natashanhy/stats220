@@ -16,6 +16,6 @@
 * 13 March: Project 1 due ✔️
 * 27 March: Project 2 due ✔️
 * 3 April: Online test ✔️
-* 24 April: Project 3 due
-* 8 May: Project 4 due
+* 24 April: Project 3 due ✔️
+* 10 May: Project 4 due ✔️
 * 22 May: Project 5 due
